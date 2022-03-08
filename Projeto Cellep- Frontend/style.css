@@ -1,0 +1,205 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+
+body{margin: 0 0 0 0;
+
+}
+
+
+.bg-imagem{
+  height: 48vw;
+  background-image: url(http://www.safernet.org.br/site/sites/default/files/webform/tqt/_MG_9247.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.text{
+  margin-top: 30%;
+  
+}
+
+.bg-imagem p{
+  
+  font-size: 8vw;
+  text-shadow: 2px 4px 2px #61070b;
+  font-family: 'Dancing Script', cursive;
+  color: white;
+  
+}
+
+h4{
+  font-family: 'Dancing Script', cursive;
+  text-shadow: 2px 2px 5px #61070b;;
+  
+}
+
+.navbar{
+background-color: #61070b  ;
+opacity: 80%;
+}
+
+.nav-link {
+  color: white;
+  
+}
+
+.nav-link a {
+  
+  text-align: center;
+
+}
+.navbar-nav .nav-item:hover .nav-link {
+    color:pink;
+}
+
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+  background-color: #FFFAF0;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+
+.texto{
+  background-color: #FFFAF0;
+}
+
+.historia{
+  margin-top:10%;
+}
+
+.bouq1{
+  background-color: #FFFAF0;
+}
+
+.bouque{
+margin-top: 10%;
+padding:10%;
+background-color: #FFFAF0;
+}
+
+.presente h4{
+  margin-top: 20%;
+}
+
+.presente p{
+  font-size: 1.1rem;
+}
+
+.list{
+  margin-left:5%;
+  margin-top: 20%;
+  //font-family: 'Dancing Script', cursive;
+  font-size: 2rem;
+  
+}
+
+.cerimonia{
+  padding: 10%;
+  margin-top: 10%;
+   background-color: #FFFAF0;
+  
+}
+
+
+}
+.onde{
+  margin-top: 20%;
+  
+ 
+  
+}
+
+.presenca{
+  background-image: url(1.jpg);
+  transp: 1%;
+}
+
+.conf{
+  margin-top: 8% ;
+  background-color: #c5897e;
+}
+.modal-header{
+background-color:#FFFAF0;
+}
+
+.modal-footer{
+ background-color:#FFFAF0;
+ 
+}
+
+.modal-footer p{
+  font-family: 'Dancing Script', cursive;
+  margin-right: 15%;
+  font-size: 2rem;
+  
+  color: #61070e;
+
+}
+
+.ft{
+  margin: 10% ;
+
+padding: 20px;
+background-size: cover;
+position: relative; 
+display: block;
+margin-bottom: 10%;
+
+}
+
+.redes{
+  background-color:#FFFAF0; 
+}
+
+.social2{
+padding: 10px;
+margin-top: 12%;
+margin-left: -10%;
+
+}
+
+.linha{
+  
+ opacity: 0.7 ;
+  
+}
+
+.nome{
+ margin-left: 10%;
+}
+
+.digite{
+  margin-left: 10%
+}
